@@ -1,5 +1,5 @@
-## Demo
-![Demo](https://i.postimg.cc/CxJMKDtN/ezgif-31ed35f3347a429a.gif)
+## Report
+![Senior Project Report](https://i.postimg.cc/CxJMKDtN/ezgif-31ed35f3347a429a.gif)
 
 ## Demo Video
 
