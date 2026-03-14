@@ -4,8 +4,6 @@
 ![Roadie Front View](https://i.postimg.cc/BZ7rYpFK/IMG-4162.jpg)
 ![Roadie Side View](https://i.postimg.cc/sfGkLS4Z/IMG-4158.jpg)
 
-
-
 ## Project Report (Schematics,Flow Charts, BOM)
 ![Page 1](https://i.ibb.co/HTBn9wdn/Senior-Project-Final-Report-Git-page-0001.jpg)
 
