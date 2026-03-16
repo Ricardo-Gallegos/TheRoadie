@@ -1,4 +1,12 @@
 
+## Demo Video
+
+🎥 [DEMO 1](https://www.youtube.com/shorts/KVrw7YE2whE)
+🎥 [DEMO 2](https://www.youtube.com/shorts/qq5HTE1NgpU)
+🎥 [DEMO 3](https://www.youtube.com/shorts/mbges-WBels)
+🎥 [DEMO 4](https://www.youtube.com/watch?v=IuVfUHGlQIk)
+
+
 ## Photos
 ![The Roadie Remote Controller](https://i.postimg.cc/8zv3KVRn/IMG-8193.jpg)<br>
 ![Roadie Front View](https://i.postimg.cc/BZ7rYpFK/IMG-4162.jpg)
@@ -96,11 +104,5 @@
 
 
 
-## Demo Video
-
-🎥 [DEMO 1](https://www.youtube.com/shorts/KVrw7YE2whE)
-🎥 [DEMO 2](https://www.youtube.com/shorts/qq5HTE1NgpU)
-🎥 [DEMO 3](https://www.youtube.com/shorts/mbges-WBels)
-🎥 [DEMO 4](https://www.youtube.com/watch?v=IuVfUHGlQIk)
 
 
